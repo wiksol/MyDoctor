@@ -1,0 +1,15 @@
+C:\Users\wikto\source\repos\MyDoctor\MyDoctor.Core\bin\Debug\net5.0\MyDoctor.Core.deps.json
+C:\Users\wikto\source\repos\MyDoctor\MyDoctor.Core\bin\Debug\net5.0\MyDoctor.Core.dll
+C:\Users\wikto\source\repos\MyDoctor\MyDoctor.Core\bin\Debug\net5.0\ref\MyDoctor.Core.dll
+C:\Users\wikto\source\repos\MyDoctor\MyDoctor.Core\bin\Debug\net5.0\MyDoctor.Core.pdb
+C:\Users\wikto\source\repos\MyDoctor\MyDoctor.Core\bin\Debug\net5.0\MyDoctor.Database.dll
+C:\Users\wikto\source\repos\MyDoctor\MyDoctor.Core\bin\Debug\net5.0\MyDoctor.Database.pdb
+C:\Users\wikto\source\repos\MyDoctor\MyDoctor.Core\obj\Debug\net5.0\MyDoctor.Core.csproj.AssemblyReference.cache
+C:\Users\wikto\source\repos\MyDoctor\MyDoctor.Core\obj\Debug\net5.0\MyDoctor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikto\source\repos\MyDoctor\MyDoctor.Core\obj\Debug\net5.0\MyDoctor.Core.AssemblyInfoInputs.cache
+C:\Users\wikto\source\repos\MyDoctor\MyDoctor.Core\obj\Debug\net5.0\MyDoctor.Core.AssemblyInfo.cs
+C:\Users\wikto\source\repos\MyDoctor\MyDoctor.Core\obj\Debug\net5.0\MyDoctor.Core.csproj.CoreCompileInputs.cache
+C:\Users\wikto\source\repos\MyDoctor\MyDoctor.Core\obj\Debug\net5.0\MyDoctor.Core.csproj.CopyComplete
+C:\Users\wikto\source\repos\MyDoctor\MyDoctor.Core\obj\Debug\net5.0\MyDoctor.Core.dll
+C:\Users\wikto\source\repos\MyDoctor\MyDoctor.Core\obj\Debug\net5.0\ref\MyDoctor.Core.dll
+C:\Users\wikto\source\repos\MyDoctor\MyDoctor.Core\obj\Debug\net5.0\MyDoctor.Core.pdb

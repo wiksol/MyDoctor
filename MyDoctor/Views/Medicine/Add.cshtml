@@ -1,0 +1,16 @@
+﻿@model MedicineViewModel
+
+@{
+    ViewData["Title"] = "Medicine Page";
+}
+<form asp-controller="Medicine" asp-action="Add">
+    Name: <input type="text" name="Name" /> <br />
+    CompanyName: <input type="text" name="CompanyName" /> <br />
+    ActiveSubstance: <input type="text" name="ActiveSubstance" /> <br />
+    Weight: <input type="text" name="Weight" /> <br />
+    Price: <input type="text" name="Price" /> <br />
+    Amount: <input type="text" name="Amount" /> <br />
+    ExpirationDate: <input type="date" name="ExpirationDate" /> <br />
+    <button type="submit" class="btn btn-success">Add</button>
+</form>
+
